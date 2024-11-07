@@ -1,0 +1,1 @@
+This document serves as the supporting material for the authors' paper titled "An attitude stabilization approach integrated of passive and active scenarios for on-orbit refueling considering liquid transfer", providing reference for both reviewers and interested readers.
